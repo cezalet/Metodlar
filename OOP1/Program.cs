@@ -12,6 +12,7 @@
             //oto.ModelYili = 2020;
             //oto.Renk = "Beyaz";
             //oto.VitesTipi = "Manuel";
+            //merhaba
 
 
             //toplamaYap(5, 7);
